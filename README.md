@@ -9,7 +9,8 @@
 'Virat', 'PERS', 'MGR', 7000<br />
 'Mukesh', 'ACCTS', 'CLRK', 2500<br />
 
-3. Now perform the following operaton:
+Now perform the following operaton:
+
 4. Display only the name of employees.
 5. Display all records of employees whose designation id 'MGR'.
 6. Display only name of employees who are working in 'ACCTS' department.
