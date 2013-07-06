@@ -1,13 +1,13 @@
 1. Create a table to store employee information with with (Name, Department, Designation and Basic salary)
 2. Insert some demo data inside the table for (Name, Dept, Desig, Basic) like:
 
-'Rajat', 'ACCTS', 'MGR', 6500
-'Madhurima', 'MKTG', 'MGR', 6000
-'Rajnish', 'PERS', 'CLRK', 4500
-'Rakhi', 'ACCTS', 'CLRK', 3000
-'Sachin', 'MKTG', 'SALES', 2000
-'Virat', 'PERS', 'MGR', 7000
-'Mukesh', 'ACCTS', 'CLRK', 2500
+'Rajat', 'ACCTS', 'MGR', 6500<br />
+'Madhurima', 'MKTG', 'MGR', 6000<br />
+'Rajnish', 'PERS', 'CLRK', 4500<br />
+'Rakhi', 'ACCTS', 'CLRK', 3000<br />
+'Sachin', 'MKTG', 'SALES', 2000<br />
+'Virat', 'PERS', 'MGR', 7000<br />
+'Mukesh', 'ACCTS', 'CLRK', 2500<br />
 
 3. Now perform the following operaton:
 4. Display only the name of employees.
